@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Rıdvan 👋
 
+- 🔭 I’m currently working on freelance
+- 🌱 I’m currently learning Nodejs, ExpressJs, MongoDB
+- 👯 I’m looking to collaborate on any web application development
+- 💬 Please contact me if you need a skilled junior developer in your dev team !
+  
 <!--
 **rdvntpl/rdvntpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![rdvntpl's Stats](https://github-readme-stats.vercel.app/api?username=rdvntpl&theme=blueberry&show_icons=true&hide_border=true&count_private=true)

@@ -1,7 +1,7 @@
 ### Hi there! I'm Rıdvan 👋
 
 - 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning Nodejs, ExpressJs, MongoDB
+- 🌱 I’m currently learning Flutter,Nodejs, MongoDB
 - 👯 I’m looking to collaborate on any web application development
 - 💬 Please contact me if you need a skilled junior developer in your dev team !
   

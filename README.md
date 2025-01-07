@@ -1,9 +1,9 @@
 ### Hi there! I'm Rıdvan 👋
 
 - 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning Flutter,Nodejs, MongoDB
-- 👯 I’m looking to collaborate on any web application development
-- 💬 Please contact me if you need a skilled junior developer in your dev team !
+- 🌱 I’m currently learning Flutter, Nodejs and MongoDB
+- 👯 I’m looking to collaborate on any mobile and web application development
+- 💬 Please contact me if you need a skilled developer in your dev team !
   
 <!--
 **rdvntpl/rdvntpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
